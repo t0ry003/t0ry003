@@ -16,7 +16,9 @@
 
 <hr>
 
-​	✅ If you've found an app or script that helps you, you can leave me a star in that repository, so I know if a project needs an upgrade and follow up to keep you up to date with all the updates in the projects you're interested in. And don't hesitate to open an issue or start a discussion so that I can solve any problems you encounter.
+### ❓ How can I support your projects?	
+
+​	If you've found an app or script that helps you, you can leave me a star in that repository, so I know if a project needs an upgrade and follow up to keep you up to date with all the updates in the projects you're interested in. And don't hesitate to open an issue or start a discussion so that I can solve any problems you encounter. If you don't want to use GitHub you can add me on Discord and message me. I will gladly answer your questions. 👍
 
 #### 📞 Discord: tory#6471
 
