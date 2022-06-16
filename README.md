@@ -16,6 +16,7 @@
 #### 	I'm Rares, a programmer at the beginning of my career. I recently finished high school, and now I'm about to start a very important period, where I will attend a university here in Romania. So much about my life, let's find out what I do best, which is coding and scripting.
 
 <hr>
+
 ### 📖 Programming languages that I use:
 
 - C/C++
