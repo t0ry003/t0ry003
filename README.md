@@ -1,9 +1,21 @@
+<div align="center">
+
+[![Twitter - @RaresOlteanu03](https://img.shields.io/badge/Twitter-%40RaresOlteanu03-blue?style=for-the-badge&logo=twitter)](https://twitter.com/RaresOlteanu03)
+[![Reddit - u/t0ry03](https://img.shields.io/badge/Reddit-u%2Ft0ry03-red?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/t0ry03)
+</br>
+
+
+[![t0ry003 - Probleme-BAC-2009](https://img.shields.io/static/v1?label=t0ry003&message=Probleme-BAC-2009&color=red&logo=github)](https://github.com/t0ry003/Probleme-BAC-2009 "Go to GitHub repo")
+[![t0ry003 - GoodChess](https://img.shields.io/static/v1?label=t0ry003&message=GoodChess&color=violet&logo=github)](https://github.com/t0ry003/GoodChess "Go to GitHub repo")
+[![t0ry003 - YoutubePlayListDL](https://img.shields.io/static/v1?label=t0ry003&message=YoutubePlayListDL&color=blue&logo=github)](https://github.com/t0ry003/YoutubePlayListDL "Go to GitHub repo")
+
+</div>
+
 ## Hi!👋
 
 #### 	I'm Rares, a programmer at the beginning of my career. I recently finished high school, and now I'm about to start a very important period, where I will attend a university here in Romania. So much about my life, let's find out what I do best, which is coding and scripting.
 
 <hr>
-
 ### 📖 Programming languages that I use:
 
 - C/C++
@@ -23,3 +35,5 @@
 ### 📞 Discord: tory#6471
 
 <hr>
+
+
