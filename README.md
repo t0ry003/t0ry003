@@ -1,9 +1,10 @@
 <div align="center">
 
 [![GitHub Repo - GoodChess](https://img.shields.io/badge/Repo-GoodChess-6f42c1?style=for-the-badge&logo=github)](https://github.com/t0ry003/GoodChess)
-[![GitHub Repo - YoutubePlayListDL](https://img.shields.io/badge/Repo-YoutubePlayListDL-0078D4?style=for-the-badge&logo=github)](https://github.com/t0ry003/YoutubePlayListDL)
-[![GitHub Repo - SmartDash](https://img.shields.io/badge/Repo-SmartDash-0078D4?style=for-the-badge&logo=github)](https://github.com/t0ry003/SmartDash)
-[![GitHub Repo - Voltage Stabilizer](https://img.shields.io/badge/Repo-Voltage_Stabilizer-0078D4?style=for-the-badge&logo=github)](https://github.com/t0ry003/Series-Regulator-Voltage-Stabilizer-OrCad)
+[![GitHub Repo - YoutubePlayListDL](https://img.shields.io/badge/Repo-YoutubePlayListDL-1da1f2?style=for-the-badge&logo=github)](https://github.com/t0ry003/YoutubePlayListDL)
+[![GitHub Repo - SmartDash](https://img.shields.io/badge/Repo-SmartDash-ff4500?style=for-the-badge&logo=github)](https://github.com/t0ry003/SmartDash)
+[![GitHub Repo - Voltage Stabilizer](https://img.shields.io/badge/Repo-Voltage_Stabilizer-32cd32?style=for-the-badge&logo=github)](https://github.com/t0ry003/Series-Regulator-Voltage-Stabilizer-OrCad)
+
 
 </div>
 
