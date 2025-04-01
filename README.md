@@ -20,6 +20,7 @@ Hi, I'm **Rares**, a third-year student in Electronics Engineering at the Polyte
 ### 💻 Tech Stack
 
 **🚀 Programming Languages:**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-27338B?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,11 +29,13 @@ Hi, I'm **Rares**, a third-year student in Electronics Engineering at the Polyte
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **🔌 Hardware & Embedded Systems:**
+
 ![OrCAD](https://img.shields.io/badge/OrCAD-FF0000?style=for-the-badge&logo=circuitverse&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 **🖥️ Tools & Frameworks:**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
